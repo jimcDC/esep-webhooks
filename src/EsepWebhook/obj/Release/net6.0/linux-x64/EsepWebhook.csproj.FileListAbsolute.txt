@@ -1,0 +1,17 @@
+C:\Users\selli\Desktop\School\CIS4930\EventDriven\Assignment\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\linux-x64\EsepWebhook.deps.json
+C:\Users\selli\Desktop\School\CIS4930\EventDriven\Assignment\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\linux-x64\EsepWebhook.runtimeconfig.json
+C:\Users\selli\Desktop\School\CIS4930\EventDriven\Assignment\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\linux-x64\EsepWebhook.dll
+C:\Users\selli\Desktop\School\CIS4930\EventDriven\Assignment\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\linux-x64\EsepWebhook.pdb
+C:\Users\selli\Desktop\School\CIS4930\EventDriven\Assignment\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\linux-x64\Amazon.Lambda.Core.dll
+C:\Users\selli\Desktop\School\CIS4930\EventDriven\Assignment\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\selli\Desktop\School\CIS4930\EventDriven\Assignment\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.csproj.AssemblyReference.cache
+C:\Users\selli\Desktop\School\CIS4930\EventDriven\Assignment\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selli\Desktop\School\CIS4930\EventDriven\Assignment\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.AssemblyInfoInputs.cache
+C:\Users\selli\Desktop\School\CIS4930\EventDriven\Assignment\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.AssemblyInfo.cs
+C:\Users\selli\Desktop\School\CIS4930\EventDriven\Assignment\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.csproj.CoreCompileInputs.cache
+C:\Users\selli\Desktop\School\CIS4930\EventDriven\Assignment\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.csproj.CopyComplete
+C:\Users\selli\Desktop\School\CIS4930\EventDriven\Assignment\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.dll
+C:\Users\selli\Desktop\School\CIS4930\EventDriven\Assignment\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\refint\EsepWebhook.dll
+C:\Users\selli\Desktop\School\CIS4930\EventDriven\Assignment\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.pdb
+C:\Users\selli\Desktop\School\CIS4930\EventDriven\Assignment\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.genruntimeconfig.cache
+C:\Users\selli\Desktop\School\CIS4930\EventDriven\Assignment\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\ref\EsepWebhook.dll
